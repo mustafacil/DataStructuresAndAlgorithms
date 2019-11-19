@@ -9,7 +9,7 @@ public class TestBinarySearchTree {
 		treeImplRR.insert(1);
 		treeImplRR.insert(2);
 		treeImplRR.insert(3);
-		
+		treeImplRR.search(4);
 		treeImplRR.traverse();
 		
 		System.out.println();
@@ -19,6 +19,8 @@ public class TestBinarySearchTree {
 		treeImplLL.insert(3);
 		treeImplLL.insert(2);
 		treeImplLL.insert(1);
+		treeImplLL.search(3);
+		treeImplLL.search(6);
 		
 		treeImplLL.traverse();
 		
@@ -29,7 +31,8 @@ public class TestBinarySearchTree {
 		treeImplLR.insert(3);
 		treeImplLR.insert(1);
 		treeImplLR.insert(2);
-		
+		treeImplLR.search(1);
+		treeImplLR.search(5);
 		treeImplLR.traverse();
 		
 		System.out.println();

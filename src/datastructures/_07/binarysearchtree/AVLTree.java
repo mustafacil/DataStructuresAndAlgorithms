@@ -11,6 +11,23 @@ public class AVLTree implements Tree {
 
 	}
 
+	@Override
+	public void search(int data) {
+		search(rootNode, data);
+		
+	}
+
+	private void search(Node node, int data) {
+		
+		if(node == null) System.out.println("Tree does not contain " + data);
+		else if(data < node.getData()) search(node.getLeftNode(), data);
+		else if(data > node.getData()) search(node.getRightNode(), data);
+		else if (node.getData() == data) System.out.println("Tree contains " + data);
+		
+		
+	}
+
+
 	private void inOrderTraverse(Node node) {
 
 		if (node == null)

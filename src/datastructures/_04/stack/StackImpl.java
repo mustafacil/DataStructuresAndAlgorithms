@@ -18,11 +18,11 @@ public class StackImpl<T> {
 		
 	}
 	
-	private boolean isFull() {
+	public boolean isFull() {
 		 return numberOfElements == size;
 	}
 
-	private boolean isEmpty() {
+	public boolean isEmpty() {
 		return numberOfElements == 0;
 	}
 	

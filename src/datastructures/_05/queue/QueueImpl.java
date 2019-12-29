@@ -16,11 +16,11 @@ public class QueueImpl <T>{
 		
 	}
 	
-	private boolean isFull() {
+	public boolean isFull() {
 		return numberOfElements == size;
 	}
 	
-	private boolean isEmpty() {
+	public boolean isEmpty() {
 		return numberOfElements == 0;
 	}
 	

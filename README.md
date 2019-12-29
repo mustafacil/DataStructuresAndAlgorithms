@@ -22,6 +22,7 @@ This project is about my data structures and algorithms implementation in Java. 
 	* 2.5 [Queue](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/datastructures/_05/queue)
 	* 2.6 [HashTable](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/datastructures/_06/hashtable)
 	* 2.7 [BinarySearchTree](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/datastructures/_07/binarysearchtree)
+	* 2.8 [Graph](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/datastructures/_08/graph)
 	
 3. [Recursion](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/recursion)
 

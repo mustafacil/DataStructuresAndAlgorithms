@@ -12,6 +12,7 @@ This project is about my data structures and algorithms implementation in Java. 
 	* 1.4 [Bubble Sort](https://github.com/mustafacil/DataStructuresAndAlgorithms/blob/master/src/algorithms/_04/bubblesort/BubbleSortImpl.java)	
 	* 1.5 [Merge Sort](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/algorithms/_05/mergesort)	
 	* 1.6 [Insertion Sort](https://github.com/mustafacil/DataStructuresAndAlgorithms/blob/master/src/algorithms/_06/insertionsort/InsertionSortImpl.java)
+	* 1.6 [Quick Sort](https://github.com/mustafacil/DataStructuresAndAlgorithms/blob/master/src/algorithms/_07/quicksort/QuickSortImpl.java)
 	
 2. [Data Structures](https://github.com/mustafacil/DataStructuresAndAlgorithms/tree/master/src/datastructures)
 
